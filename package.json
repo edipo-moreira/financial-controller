@@ -2,7 +2,7 @@
   "name": "sistema-financeiro",
   "version": "0.1.0",
   "engines": {
-    "node": "16.5"
+    "node": "17.9.0"
   },
   "private": true,
   "dependencies": {
